@@ -1,0 +1,12 @@
+{
+    "filterCar" :{
+    "brand":"Audi",
+    "model":"A3",
+    "VehicleType":"Kleinwagen", 
+    "rate":{
+        "from":"10 €",
+        "until":"200 €"
+    },
+    "condition":"Gebrauchtwagen"
+    }
+}    
